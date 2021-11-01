@@ -44,7 +44,7 @@ enableRobotsTXT = true
 
 [params.footer]
   trademark = true 
-  copyright = true
+#  copyright = true
 #  bottomText = [
 #    "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
 #  ]
